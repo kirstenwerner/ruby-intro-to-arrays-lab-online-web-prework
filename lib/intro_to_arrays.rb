@@ -3,6 +3,6 @@ def my_new_array
 end
 
 def my_two_array 
-  Array.new[2]
+  Array.new(2)
 end
 
